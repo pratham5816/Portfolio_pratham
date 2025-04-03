@@ -3,4 +3,4 @@ NEXT_PUBLIC_APP_URL=https://bikestrumcoder.netlify.app
 TELEGRAM_BOT_TOKEN = 
 TELEGRAM_CHAT_ID = 
 GMAIL_PASSKEY = 
-EMAIL_ADDRESS =prathamtaheem@gmail.com
+EMAIL_ADDRESS=prathamtaheem@gmail.com
