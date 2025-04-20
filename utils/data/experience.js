@@ -2,8 +2,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Final-Year Computer Science Student',
-    company: "Gyan Ganga Collage Of Technology",
-    duration: "(October (2021 - June 2025) Present)"
+    company: "Gyan Ganga College Of Technology",
+    duration: "(October 2021 - June 2025)"
   },
   {
     id: 2,
