@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Bachelor Degree",
     duration: "2021 - 2025 Present",
-    institution: "Gyan Ganga Collage Of Technology , Jabalpur",
+    institution: "Gyan Ganga College Of Technology , Jabalpur",
     score: "Academic Performance - 7.0 CGPA",
     program: "Program - Computer Science Engineering",
   },
