@@ -13,5 +13,6 @@ export const personalData = {
   stackOverflow: 'https://www.naukri.com/code360/profile/BikeStrumCoder',
   leetcode: "https://leetcode.com/u/pratham_5816/",
   devUsername: "Pratham",
-  resume: "https://drive.google.com/file/d/1QTOncBo0fomc3UfMCH7KJYH6-V5FcHCB/view?usp=sharing"
+  // resume: "https://drive.google.com/file/d/1QTOncBo0fomc3UfMCH7KJYH6-V5FcHCB/view?usp=sharing"
+  resume:"https://drive.google.com/drive/folders/1h1lvvkt1j5bLAJPIQoUCO-HPRgUm7fA5?usp=drive_link"
 }
