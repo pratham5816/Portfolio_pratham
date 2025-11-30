@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Pratham",
   profile: '/profile.png',
-  designation: "Novice Software Developer",
-  description: "My name is Pratham. I am a Neophyte and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude.I am deeply fascinated by the intricacies of coding, particularly the step-by-step process involved in parsing a string within a compiler and the functioning of automata. Currently, I am in my fourth year pursuing a Bachelor's degree in Computer Science and actively seeking job opportunities that align with my technical expertise and daily programming experience. I have a strong passion for Java and have been working with it consistently for nearly a year.",
+  designation: "budding Software Developer passionate about building real-world applications and growing my skills every day.",
+  description: "I’m Pratham Kumar Taheem, a 2025 passout from Jabalpur and currently pursuing the CDAC (DAC) course at Infoway Technologies, Pune. I’m developing strong skills across C++, Java, data structures and algorithms, databases, operating system concepts, Spring Boot, and full-stack web technologies. I enjoy building real-world projects that solve practical problems and continuously strengthening my understanding of both backend and frontend systems.",
   email: 'prathamtaheem@gmail.com',
   phone: '+918839685816',
   address: 'Jabalpur , Madhya Pradesh - 482009 , India',
