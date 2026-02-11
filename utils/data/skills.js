@@ -1,19 +1,14 @@
 export const skillsData = [
+  'Java',
+  'Spring-Boot',
   'HTML',
   'CSS',
   'Javascript',
-  'Typescript',
   'React',
-  'Next JS',
-  'Tailwind',
   'MySQL',
   'Git',
-  'Bootstrap',
   'Docker',
-  'Next JS',
   'python',
   'java',
-  '.net',
-  'Typescript'
-
+  '.Net',
 ]

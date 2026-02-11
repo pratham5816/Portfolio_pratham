@@ -1,7 +1,7 @@
 export const educations = [
   {
     id: 1,
-    title: "",
+    title: "PG - DIPLOMA",
     duration: "2025 - 2026",
     institution: "Centre for Development of Advanced Computing (CDAC).",
     score: "",
