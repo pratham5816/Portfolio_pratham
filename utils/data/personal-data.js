@@ -1,8 +1,7 @@
 export const personalData = {
   name: "Pratham",
   profile: '/profile.png',
-  designation: "budding Software Developer passionate about building real-world applications and growing my skills every day.",
-  description: "I’m Pratham Kumar Taheem, a 2025 passout from Jabalpur and currently pursuing the CDAC (DAC) course at Infoway Technologies, Pune. I’m developing strong skills across C++, Java, data structures and algorithms, databases, operating system concepts, Spring Boot, and full-stack web technologies. I enjoy building real-world projects that solve practical problems and continuously strengthening my understanding of both backend and frontend systems.",
+  designation: "Software Engineer passionate about building scalable applications, solving real-world problems, and continuously growing through hands-on engineering.",  description: "I am a Software Engineer specializing in enterprise backend development, system integrations, and scalable application architecture. I enjoy solving complex engineering problems, building automation, exploring AI-driven solutions, and continuously learning new technologies. My experience spans Java, Groovy, Spring Boot, Apache OFBiz, Moqui, distributed systems, and cloud integrations. I believe in writing reliable software, understanding systems deeply, and growing into an engineer who builds impactful solutions.",
   email: 'prathamtaheem@gmail.com',
   phone: '+918839685816',
   address: 'Jabalpur , Madhya Pradesh - 482009 , India',
@@ -13,6 +12,5 @@ export const personalData = {
   stackOverflow: 'https://www.naukri.com/code360/profile/BikeStrumCoder',
   leetcode: "https://leetcode.com/u/pratham_5816/",
   devUsername: "Pratham",
-  // resume: "https://drive.google.com/file/d/1QTOncBo0fomc3UfMCH7KJYH6-V5FcHCB/view?usp=sharing"
-  resume:"https://drive.google.com/drive/folders/1h1lvvkt1j5bLAJPIQoUCO-HPRgUm7fA5?usp=drive_link"
+  resume:"https://drive.google.com/file/d/11FUyUomghMMtskm3pi2tAHQmlGS2hRGc/view?usp=share_link"
 }
