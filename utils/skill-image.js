@@ -80,8 +80,7 @@ import dotnetcore from '../app/assets/svg/skills/dotnetcore.svg'
 import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
-import fastapi from '../app/assets/svg/skills/fastapi.svg';
-import springboot from '../app/assets/svg/skills/springboot.svg';
+import fastapi from '../app/assets/svg/skills/fastapi.svg'
 
 
 
@@ -252,10 +251,6 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
-    case 'spring':
-    case 'spring boot':
-    case 'spring-boot':
-      return springboot;
     default:
       break;
   }
