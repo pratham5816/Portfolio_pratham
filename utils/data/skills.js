@@ -1,6 +1,5 @@
 export const skillsData = [
   'Java',
-  'Spring-Boot',
   'HTML',
   'CSS',
   'Javascript',

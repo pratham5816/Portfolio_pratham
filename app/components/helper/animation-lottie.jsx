@@ -1,8 +1,21 @@
-"use client"
+"use client";
 
-import Lottie from "lottie-react";
+import { useEffect, useState } from "react";
+import dynamic from "next/dynamic";
+
+const Lottie = dynamic(() => import("lottie-react"), { ssr: false });
 
 const AnimationLottie = ({ animationPath, width }) => {
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  if (!mounted) {
+    return null;
+  }
+
   const defaultOptions = {
     loop: true,
     autoplay: true,
